@@ -11,6 +11,11 @@
 npm i -g lerna
 ```
 
+### Obtener el repo
+```
+git clone --recurse-submodules https://github.com/cmartinezdev/lerna-test-gitsubmodules.git
+```
+
 ### Install project dependencies
 ```
 lerna bootstrap

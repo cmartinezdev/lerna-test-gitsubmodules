@@ -1,0 +1,9 @@
+[submodule "packages/printer-test-gitsubmodules"]
+	path = packages/printer-test-gitsubmodules
+	url = https://github.com/cmartinezdev/printer-test-gitsubmodules.git
+[submodule "packages/core-test-gitsubmodules"]
+	path = packages/core-test-gitsubmodules
+	url = https://github.com/cmartinezdev/core-test-gitsubmodules.git
+[submodule "packages/run-test-gitsubmodules"]
+	path = packages/run-test-gitsubmodules
+	url = https://github.com/cmartinezdev/run-test-gitsubmodules.git
